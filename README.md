@@ -1,6 +1,6 @@
 # 💫 About Me:
 
- I’m currently working on bakapp sofware<br> I’m looking to collaborate in university tasks<br> I’m currently learning scheme, html, css<br> Ask me about python, java, c, c++, vb<br> Fun fact I always forgot make recovery in my pc 
+I currently work as a freelancere<br> I’m looking to collaborate in tasks<br> I’m currently learning scheme, html, css<br> Ask me about python, java, c, c++, vb<br> Fun fact I always forgot make recovery in my pc 
 
 # 💻 Tech Stack:
 
