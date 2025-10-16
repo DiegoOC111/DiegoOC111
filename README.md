@@ -12,7 +12,7 @@ I’m a passionate software developer with a strong curiosity for how things wor
 
 ###
 
-<img align="right" height="150" src="https://github.com/DiegoOC111/DiegoOC111/blob/main/miku%20gift.gif"  />
+<img align="right" height="100" src="https://github.com/DiegoOC111/DiegoOC111/blob/main/miku%20gift.gif"  />
 
 ###
 
@@ -41,6 +41,3 @@ I’m a passionate software developer with a strong curiosity for how things wor
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="center">
-  <img src="https://github.com/DiegoOC111/DiegoOC111/blob/main/miku%20gift.gif" width="400" alt="MikuGif">
-</p>
