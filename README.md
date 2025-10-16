@@ -1,7 +1,5 @@
-<!-- 🟦 GIF superior más pequeño -->
-<p align="center">
-  <img src="https://github.com/DiegoOC111/DiegoOC111/blob/main/miku%20gift.gif" width="400" alt="MikuGif">
-</p>
+
+
 
 <div align="center" style="background-color:#0D1117; padding:20px; border-radius:10px;">
 
@@ -23,7 +21,6 @@ Ask me about Python, Java, C, C++, VB</p>
 
 </div>
 
-<!-- 🟨 GIF inferior -->
 <p align="center">
-  <img src="https://github.com/DiegoOC111/DiegoOC111/blob/main/miku%20gift.gif" width="100%" alt="MikuGif">
+  <img src="https://github.com/DiegoOC111/DiegoOC111/blob/main/miku%20gift.gif" width="400" alt="MikuGif">
 </p>
