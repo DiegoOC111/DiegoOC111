@@ -1,4 +1,4 @@
-<div style="background-color:#0D1117; padding:20px; border-radius:10px;">
+[<div style="background-color:#0D1117; padding:20px; border-radius:10px;">
 
 <h1>💫 About Me:</h1>
 <p>I currently work as a freelancer<br>
@@ -24,3 +24,4 @@ Ask me about Python, Java, C, C++, VB</p>
 ---
 
 [![](https://visitcount.itsvg.in/api?id=DiegoOC111&icon=2&color=11)](https://visitcount.itsvg.in)
+](https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif)
