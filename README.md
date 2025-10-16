@@ -3,7 +3,6 @@
 <h1>💫 About Me:</h1>
 <p>I currently work as a freelancer<br>
 I’m looking to collaborate in tasks<br>
-I’m currently learning Scheme, HTML, CSS<br>
 Ask me about Python, Java, C, C++, VB</p>
 
 <h2>💻 Tech Stack:</h2>
@@ -17,8 +16,9 @@ Ask me about Python, Java, C, C++, VB</p>
 <h2>📊 GitHub Stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&theme=dark&hide_border=false&layout=compact"/>
 
-![MikuGif](https://github.com/DiegoOC111/DiegoOC111/blob/main/miku%20gift.gif)
 
 
 </div>
+
+![MikuGif](https://github.com/DiegoOC111/DiegoOC111/blob/main/miku%20gift.gif)
 
