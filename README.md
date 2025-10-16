@@ -22,6 +22,6 @@ Ask me about Python, Java, C, C++, VB</p>
 </div>
 
 ---
-
-[![](https://visitcount.itsvg.in/api?id=DiegoOC111&icon=2&color=11)](https://visitcount.itsvg.in)
-](https://raw.githubusercontent.com/gist/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/nyan-cat.gif)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/1e/93/22/1e93224270b2f14d8a487c8e66265554.gif" width="100%" alt="Bottom GIF">
+</p>
