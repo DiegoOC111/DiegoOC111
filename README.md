@@ -16,7 +16,7 @@ Ask me about Python, Java, C, C++, VB</p>
 
 <h2>📊 GitHub Stats:</h2>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&theme=light&hide_border=false&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&theme=dark&hide_border=false&layout=compact"/>
 <img src="https://i.pinimg.com/originals/1e/93/22/1e93224270b2f14d8a487c8e66265554.gif" width="100%" alt="Bottom GIF">
 
 
