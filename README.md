@@ -1,4 +1,9 @@
+<!-- 🟦 GIF superior más pequeño -->
+<p align="center">
+  <img src="https://github.com/DiegoOC111/DiegoOC111/blob/main/miku%20gift.gif" width="400" alt="MikuGif">
+</p>
 
+<div align="center" style="background-color:#0D1117; padding:20px; border-radius:10px;">
 
 <h1>💫 About Me:</h1>
 <p>I currently work as a freelancer<br>
@@ -16,9 +21,9 @@ Ask me about Python, Java, C, C++, VB</p>
 <h2>📊 GitHub Stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&theme=dark&hide_border=false&layout=compact"/>
 
-
-
 </div>
 
-![MikuGif](https://github.com/DiegoOC111/DiegoOC111/blob/main/miku%20gift.gif)
-
+<!-- 🟨 GIF inferior -->
+<p align="center">
+  <img src="https://github.com/DiegoOC111/DiegoOC111/blob/main/miku%20gift.gif" width="100%" alt="MikuGif">
+</p>
