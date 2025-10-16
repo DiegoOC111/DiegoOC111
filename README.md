@@ -1,4 +1,4 @@
-[<div style="background-color:#0D1117; padding:20px; border-radius:10px;">
+
 
 <h1>💫 About Me:</h1>
 <p>I currently work as a freelancer<br>
@@ -17,7 +17,7 @@ Ask me about Python, Java, C, C++, VB</p>
 <h2>📊 GitHub Stats:</h2>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&theme=dark&hide_border=false&layout=compact"/>
-<img src="https://i.pinimg.com/originals/1e/93/22/1e93224270b2f14d8a487c8e66265554.gif" width="100%" alt="Bottom GIF">
+
 
 
 </div>
