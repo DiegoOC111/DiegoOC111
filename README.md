@@ -1,21 +1,26 @@
-# 💫 About Me:
-
-I currently work as a freelancere<br> I’m looking to collaborate in tasks<br> I’m currently learning scheme, html, css<br> Ask me about python, java, c, c++, vb 
-
-# 💻 Tech Stack:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=DiegoOC111&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=DiegoOC111&theme=dark&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center" style="background: linear-gradient(135deg, #0D1117, #1E2A78); padding: 25px; border-radius: 15px; color: white;">
+  
+# 💫 About Me
+Freelancer passionate about code <br>
+Ask me about Python, Java, C, C++, VB
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=DiegoOC111&icon=2&color=11)](https://visitcount.itsvg.in)
+# 💻 Tech Stack
+<p>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+# 📊 GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=DiegoOC111&theme=github_dark&hide_border=false"/><br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoOC111&theme=github_dark&hide_border=false"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&theme=github_dark&hide_border=false&layout=compact"/>
+
+</div>
