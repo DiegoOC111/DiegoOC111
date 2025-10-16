@@ -15,9 +15,9 @@ Ask me about Python, Java, C, C++, VB</p>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 <h2>📊 GitHub Stats:</h2>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&theme=dark&hide_border=false&layout=compact"/>
 
+![MikuGif]([/images/picture.jpg](https://github.com/DiegoOC111/DiegoOC111/blob/main/miku%20gift.gif))
 
 
 </div>
