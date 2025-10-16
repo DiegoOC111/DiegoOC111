@@ -21,7 +21,6 @@ Ask me about Python, Java, C, C++, VB</p>
 
 </div>
 
----
-<p align="center">
+
   <img src="https://i.pinimg.com/originals/1e/93/22/1e93224270b2f14d8a487c8e66265554.gif" width="100%" alt="Bottom GIF">
-</p>
+
