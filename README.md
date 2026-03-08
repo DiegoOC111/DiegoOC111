@@ -36,7 +36,10 @@ I’m a passionate software developer with a strong curiosity for how things wor
 
 ###
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&theme=rose&show_icons=true&hide_border=false&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api?username=DiegoOC111&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=DiegoOC111&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
