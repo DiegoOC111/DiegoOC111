@@ -1,14 +1,14 @@
 
 
 
-# 💫 About Me:
+#  About Me:
 I’m a passionate software developer with a strong curiosity for how things work under the hood.<br>I enjoy learning new technologies, solving complex problems, and building clean, organized code.<br>I’m always looking to collaborate on interesting projects and improve my skills every day
 
 
-## 🌐 Socials:
+##  Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diegoocdev@gmail.com) 
 
-# 💻 Tech Stack:
+#  Tech Stack:
 
 ###
 
@@ -35,9 +35,9 @@ I’m a passionate software developer with a strong curiosity for how things wor
 </div>
 
 ###
-# 📊 GitHub Stats:
+# GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
