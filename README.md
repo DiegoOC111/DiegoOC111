@@ -36,8 +36,7 @@ I’m a passionate software developer with a strong curiosity for how things wor
 
 ###
 # GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&theme=rose&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&theme=rose&show_icons=true&hide_border=false&layout=compact&langs_count=8)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
