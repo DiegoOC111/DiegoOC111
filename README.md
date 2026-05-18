@@ -36,10 +36,12 @@ I’m a passionate software developer with a strong curiosity for how things wor
 
 ###
 # GitHub Stats:
-![](<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegooc111&show_icons=true&locale=en&layout=compact" alt="diegooc111" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegooc111&show_icons=true&theme=merko&locale=en" alt="diegooc111" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoOC111&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Diego's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&layout=compact&theme=radical" alt="Top Languages" height="180px" />
+</p>
 
-
-
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoOC111&theme=radical" alt="GitHub Streak" />
+</p>
