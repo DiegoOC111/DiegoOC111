@@ -36,9 +36,9 @@ I’m a passionate software developer with a strong curiosity for how things wor
 
 ###
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DiegoOC111&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DiegoOC111&theme=midnight-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diegooc111&show_icons=true&locale=en&layout=compact" alt="diegooc111" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegooc111&show_icons=true&theme=merko&locale=en" alt="diegooc111" /></p>
 
 
 
