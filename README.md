@@ -5,7 +5,7 @@
 </div>
 
 ### About Me
-I am a passionate **Software Developer** and **Data Science Student** dedicated to bridging the gap between robust backend engineering and data-driven intelligence. I love breaking down complex algorithmic problems, optimizing systems, and building clean, scalable architecture. My focus is writing elegant code while leveraging statistical analysis and machine learning to turn data into impactful, real-world solutions. 
+I am a passionate **Software Developer** and **Data Science Student** dedicated to bridging the gap between robust backend engineering and data-driven intelligence. I love breaking down complex algorithmic problems, optimizing systems, and building clean, scalable architecture. My focus is writing code while leveraging statistical analysis and machine learning to turn data into impactful, real-world solutions. 
 
 ---
 
@@ -31,20 +31,8 @@ I am a passionate **Software Developer** and **Data Science Student** dedicated 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
-</div>
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-[![Diego's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DiegoOC111&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=1)](https://github.com/DiegoOC111)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoOC111&layout=compact&theme=radical&v=1)](https://github.com/DiegoOC111)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DiegoOC111&theme=radical&v=1)](https://github.com/DiegoOC111)
-
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white" height="40" alt="Google Colab" />
 </div>
 
 ---
